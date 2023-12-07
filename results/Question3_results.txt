@@ -1,0 +1,19 @@
+
+Question:3
+For the enalapril group, is there a significant difference between pre-treatment and Week 4 NT-proBNP levels? (2 Points)
+
+Sample size:429
+
+Test type: Paired T-test
+
+Ho:There is no significant difference between pre-treatment and Week 4 NT-proBNP levels for Enalapril intervention.
+H1:There is a significant difference between pre-treatment and Week 4 NT-proBNP levels for Enalapril intervention.
+
+
+Results:
+Paired T-test results:
+T-statistic: 185.83479491728963
+P-value: 0.0
+
+Question 3 Answer:
+There is a significant difference between pre-treatment and Week 4 NT-proBNP levels for Enalapril.

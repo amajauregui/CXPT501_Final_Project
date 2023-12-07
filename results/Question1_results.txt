@@ -1,0 +1,19 @@
+
+Question:1
+For the sacubitril group, is there a significant difference between pre-treatment and Week 4 NT-proBNP levels? (2 Points)
+
+Hypothesis
+Ho:There is no significant difference between pre-treatment and Week 4 NT-proBNP levels for Sacubitril/Valsartan intervention.
+H1:There is a significant difference between pre-treatment and Week 4 NT-proBNP levels for Sacubitril/Valsartan intervention.
+
+Sample size: 435
+
+Test type: paired T-Test
+
+Result:
+Paired T-test results:
+T-statistic: 179.70183563105823
+P-value: 0.0
+
+Question 1 Answer:
+There is a significant difference between pre-treatment and Week 4 NT-proBNP levels for Sacubitril/Valsartan intervention.

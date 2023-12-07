@@ -1,0 +1,30 @@
+
+Is there a statistically significant difference between the pre-treatment NT-proBNP and week 4 NT-proBNP, and between baseline and week 8 NT-proBNP in sacubitril/valsartan and enalapril groups? 
+
+Paired T-test results within Sacubitril/Valsartan:
+Week 4 - T-statistic: 179.70183563105823
+Week 4 - P-value: 0.0
+Week 8 - T-statistic: 179.70183624725638
+Week 8 - P-value: 0.0
+
+Paired T-test results within Enalapril:
+Week 4 - T-statistic: 185.83479491728963
+Week 4 - P-value: 0.0
+Week 8 - T-statistic: 185.8347859357262
+Week 8 - P-value: 0.0
+
+Independent T-test results between Sacubitril/Valsartan and Enalapril:
+Week 4 - T-statistic: -41.711632296435845
+Week 4 - P-value: 3.137544040782517e-202
+Week 8 - T-statistic: -79.78225533293376
+Week 8 - P-value: 0.0
+
+Independent T-test results for pre-treatment values between Sacubitril/Valsartan and Enalapril:
+T-statistic: 1.1927571533991683
+P-value: 0.2332931277840902
+
+There is a significant difference between Sacubitril/Valsartan and Enalapril for Week 4 NT-proBNP levels.
+There is a significant difference between Sacubitril/Valsartan and Enalapril for Week 8 NT-proBNP levels.
+There is no significant difference between Sacubitril/Valsartan and Enalapril for pre-treatment NT-proBNP levels.
+
+Yes, there is a statistically significant difference between the pre-treatment NT-proBNP and week 4 NT-proBNP, and between baseline and week 8 NT-proBNP in sacubitril/valsartan and enalapril groups.

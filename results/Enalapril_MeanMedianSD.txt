@@ -1,0 +1,35 @@
+
+The Mean for Enalapril Intervention is:
+Age                                         47.988345
+Height (cm)                                181.037296
+Weight (kg)                                 77.899767
+Pre-treatment NT-proBNP (pg/mL)           6122.875683
+Week 4 NT-proBNP (pg/mL)                  4573.788154
+Week 8 NT-proBNP (pg/mL)                  3416.619776
+Pre-treatment BNP (pg/mL)                 1538.408951
+Left ventricular ejection fraction (%)      31.147079
+BMI                                         24.577864
+dtype: float64
+
+The Median for Enalapril Intervention is:
+Age                                         47.000000
+Height (cm)                                181.000000
+Weight (kg)                                 78.000000
+Pre-treatment NT-proBNP (pg/mL)           6002.286000
+Week 4 NT-proBNP (pg/mL)                  4483.708000
+Week 8 NT-proBNP (pg/mL)                  3349.330000
+Pre-treatment BNP (pg/mL)                 1507.052000
+Left ventricular ejection fraction (%)      30.544000
+BMI                                         23.233456
+dtype: float64
+
+The Standard Deviation for Enalapril Intervention is:
+Age                                        17.839690
+Height (cm)                                18.424854
+Weight (kg)                                22.346814
+Pre-treatment NT-proBNP (pg/mL)           682.428402
+Week 4 NT-proBNP (pg/mL)                  509.774033
+Week 8 NT-proBNP (pg/mL)                  380.801206
+Pre-treatment BNP (pg/mL)                 184.630769
+Left ventricular ejection fraction (%)      4.017975
+BMI                                         8.844582

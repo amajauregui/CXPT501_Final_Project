@@ -1,0 +1,26 @@
+
+Question:5
+Is there a significant difference in NT-proBNP levels at Week 4 between the two groups (sacubitril and enalapril)? (2 Points)
+
+sample size sacubitril:435
+sample size enelapril:429
+
+Test type: two samples unpaired T-test (independent)
+
+Ho:There is NOT a significant difference between NT-proBNP levels at Week 4 between the two groups (sacubitril and enalapril)
+H1:There is a significant difference between NT-proBNP levels at Week 4 between the two groups (sacubitril and enalapril).
+
+Variance Check
+Levene's test
+Levene's test statistic: 18.591840781461848
+P-value: 1.806120739407005e-05
+
+Variances are significantly different. Welch's T-test recomended.
+
+Welch's T-test
+T-statistic: -41.711632296435845
+P-value: 3.137544040782517e-202
+
+Question 5 answer:
+
+There is a significant difference between NT-proBNP levels at Week 4 between the two groups (sacubitril and enalapril).

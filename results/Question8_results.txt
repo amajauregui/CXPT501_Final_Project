@@ -1,0 +1,26 @@
+
+Question:
+
+Among participants aged 60 or older, is there a significant difference in NT-proBNP levels at Week 8 between the two groups (sacubitril and enalapril)? (2 Points)
+
+sample size sacubitril:140
+sample size enelapril:137
+
+Test type: 2 sample unpaired
+
+Ho:There is NOT a significant difference between NT-proBNP levels at Week 8 between the two intervention groups (sacubitril and enalapril).
+H1:There is a significant difference between NT-proBNP levels at Week 8 between the two intervention groups (sacubitril and enalapril).
+
+Levene's test
+Levene's test statistic: 20.684500164234596
+P-value: 8.128012947184143e-06
+
+Variances are significantly different. Welch's T-test recomennded
+
+Welch's T-test
+T-statistic: -49.39255253117414
+P-value: 2.0948711041364107e-126
+
+Question 8 answer:
+
+There is a significant difference between NT-proBNP levels at Week 8 between the two intervention groups (sacubitril and enalapril).

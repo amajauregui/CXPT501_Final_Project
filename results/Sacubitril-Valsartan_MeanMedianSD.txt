@@ -1,0 +1,35 @@
+
+The Mean for Sacubitril/Valsartan Intervention is:
+Age                                         48.452874
+Height (cm)                                181.857471
+Weight (kg)                                 79.068966
+Pre-treatment NT-proBNP (pg/mL)           6179.680710
+Week 4 NT-proBNP (pg/mL)                  3293.769828
+Week 8 NT-proBNP (pg/mL)                  1755.579301
+Pre-treatment BNP (pg/mL)                 1546.036740
+Left ventricular ejection fraction (%)      30.911062
+BMI                                         24.673102
+dtype: float64
+
+The Median for Sacubitril/Valsartan Intervention is:
+Age                                         49.000000
+Height (cm)                                183.000000
+Weight (kg)                                 80.000000
+Pre-treatment NT-proBNP (pg/mL)           6013.894000
+Week 4 NT-proBNP (pg/mL)                  3205.406000
+Week 8 NT-proBNP (pg/mL)                  1708.481000
+Pre-treatment BNP (pg/mL)                 1507.478000
+Left ventricular ejection fraction (%)      30.345000
+BMI                                         23.384354
+dtype: float64
+
+The Standard Deviation for Sacubitril/Valsartan Intervention is:
+Age                                        18.415818
+Height (cm)                                18.000842
+Weight (kg)                                22.852459
+Pre-treatment NT-proBNP (pg/mL)           717.229481
+Week 4 NT-proBNP (pg/mL)                  382.283300
+Week 8 NT-proBNP (pg/mL)                  203.756984
+Pre-treatment BNP (pg/mL)                 186.044647
+Left ventricular ejection fraction (%)      3.881671
+BMI                                         8.972476
